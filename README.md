@@ -1,4 +1,4 @@
-# Filher - your best array duplicates estinguisher
+# Filther - your best array duplicates estinguisher
 
 Filtering Arrays for duplicates
 
