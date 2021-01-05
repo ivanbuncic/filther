@@ -2,8 +2,16 @@
 
 Filtering Arrays for duplicates
 
-Just use it
+Just use it like this:
 
-const filther = arr => Array.from(new Set(arr));
+import filther from 'filther';
 
-module.exports = filther;
+arr = [23, 23, 23, 23, 23, 45, 45, 45, 567, 67, 67, 67, 67, 67,]
+
+let filtered = filther(arr);
+
+console.log(filtered) // should return [23,45,567,67] 
+
+
+
+
