@@ -1,8 +1,9 @@
-# filth
+# Filher - your best array duplicates estinguisher
+
 Filtering Arrays for duplicates
 
 Just use it
 
-const filth = arr => Array.from(new Set(arr));
+const filther = arr => Array.from(new Set(arr));
 
-module.exports = filth;
+module.exports = filther;
