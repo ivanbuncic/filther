@@ -1,5 +1,3 @@
-const filth = function (arr) {
-  Array.from(new Set(arr));
-};
+const filth = arr => Array.from(new Set(arr));
 
 module.exports = filth;
