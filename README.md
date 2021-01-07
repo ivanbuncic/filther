@@ -2,16 +2,16 @@
 
 Filtering Arrays for duplicates
 
-Just use it like this:
+Use it like this
 
-import filther from 'filther';
+```js 
+import f from 'filther';
 
-arr = [23, 23, 23, 23, 23, 45, 45, 45, 567, 67, 67, 67, 67, 67,]
+let arr = [23, 23, 23, 23, 23, 45, 45, 45, 567, 67, 67, 67, 67, 67];
 
-let filtered = filther(arr);
+let filtered = f(arr);
 
 console.log(filtered) // should return [23,45,567,67] 
+```
 
-
-
-
+Good luck!
