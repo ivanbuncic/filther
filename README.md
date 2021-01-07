@@ -1,6 +1,6 @@
 # Filther - your best array duplicates extinguisher
 
-Filtering Arrays for duplicates
+Filtering Arrays for duplicates with Set and back
 
 Use it like this
 
