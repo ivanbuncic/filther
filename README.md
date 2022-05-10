@@ -6,7 +6,7 @@ Filtering Arrays for duplicates with Set and back
 
 npm i filther
 
-Use it like this
+## Usage
 
 ```js 
 import f from 'filther';
