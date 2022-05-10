@@ -2,7 +2,7 @@
 
 Filtering Arrays for duplicates with Set and back
 
-##Install
+## Install
 
 npm i filther
 
