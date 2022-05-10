@@ -2,6 +2,10 @@
 
 Filtering Arrays for duplicates with Set and back
 
+##Install
+
+npm i filther
+
 Use it like this
 
 ```js 
