@@ -1,3 +1,6 @@
+
+[![Wallaby.js](https://img.shields.io/badge/wallaby.js-powered-blue.svg?style=for-the-badge&logo=github)](https://wallabyjs.com/oss/)
+
 # Filther - your best array duplicates extinguisher
 
 Filtering Arrays for duplicates with Set and back
